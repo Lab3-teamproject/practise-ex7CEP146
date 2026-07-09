@@ -1,2 +1,2 @@
-" The capital of Canada is Ottawa " 
+"The capital of Canada is Ottawa " 
 
