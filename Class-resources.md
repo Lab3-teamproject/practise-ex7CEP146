@@ -1,6 +1,7 @@
- # Class Resources
+# Class Resources #
 
-## Study Tips
+## Study Tips ##
+
 - Take notes during lectures
 - Review material weekly
 
